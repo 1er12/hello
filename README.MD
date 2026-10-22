@@ -35,4 +35,4 @@ Ensure you have **Git** installed on your system. You can download it from [git-
 2. **Clone the Repository**  
    Run the following command in your terminal to clone the repository to your machine:
    ```bash
-   git clone <https://github.com/1er12/hello.gitL>
+   git clone https://github.com/1er12/hello.gitL
